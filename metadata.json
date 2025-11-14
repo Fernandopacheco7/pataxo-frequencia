@@ -1,0 +1,5 @@
+{
+  "name": "pataxo-chamada",
+  "description": "A class management application for a jiu-jitsu academy, focusing on student registration, class scheduling, attendance tracking, and visual frequency reports.",
+  "requestFramePermissions": []
+}
